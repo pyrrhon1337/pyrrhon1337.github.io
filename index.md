@@ -64,7 +64,7 @@ end
 
 ### Here is an unordered list:
 
-*   [HOW I WAS ABLE TO TAKE OVER ONE OF DELL’S SUBDOMAINS](./subdomain-takeover)
+*   [HOW I WAS ABLE TO TAKE OVER ONE OF DELL’S SUBDOMAINS](./subdomain-takeover.html)
 *   Write up
 *   Write up
 *   Write up
