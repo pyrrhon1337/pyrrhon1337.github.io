@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# *   [HOW I WAS ABLE TO TAKE OVER ONE OF DELL’S SUBDOMAINS](./subdomain-takeover.html)
+## -  [HOW I WAS ABLE TO TAKE OVER ONE OF DELL’S SUBDOMAINS](./subdomain-takeover.html)
 
 My write-up about a subdomain take over vulnerability I found on DELL.
 
