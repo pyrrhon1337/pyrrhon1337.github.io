@@ -64,10 +64,10 @@ end
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   [HOW I WAS ABLE TO TAKE OVER ONE OF DELL’S SUBDOMAINS](./subdomain-takeover)
+*   Write up
+*   Write up
+*   Write up
 
 ### And an ordered list:
 
