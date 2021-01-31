@@ -6,10 +6,8 @@ layout: default
 
 * * *
 
-* ## [HOW I WAS ABLE TO TAKE OVER ONE OF DELL’S SUBDOMAINS](./subdomain-takeover.html)
+* ## [how i was able to takeover one of dell's subdomains](./subdomain-takeover.html)
 
-My write-up about a subdomain takeover vulnerability I found on Dell.
+my write-up about a subdomain takeover vulnerability I found on dell.
 
 * * *
-
-[^1]: Here's the first footnote
