@@ -17,6 +17,4 @@ layout: default
 
 * * *
 
-[twitter tahabykl]
-
 [^1]: Here's the first footnote
