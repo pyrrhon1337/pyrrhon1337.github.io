@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Write-ups
+# write-ups
 
 * * *
 
