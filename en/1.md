@@ -35,7 +35,7 @@ For those who do not know about git or git objects, I recommend googling it firs
 
 Let's try to read the admin.php file. If you look closer, you can see a sha1 hash above the filenames. We'll use it to download the object.
 
-Let's assume that we have the sha1 hash `b7ccea095f22c12e1301c5515df2a8f1c5e35966` for a file we want to read. We should navigate to the folder `.git/objects/b7`. Here, `b` and `7` are the first two characters of our hash. And the filename is the rest of the hash, which is `ccea095f22c12e1301c5515df2a8f1c5e35966`. The URL should now look like the following: `https://vulnerable.com/.git/objects/b7/ccea095f22c12e1301c5515df2a8f1c5e35966`.
+Let's assume that we have the sha1 hash `b7ccea095f22c12e1301c5515df2a8f1c5e35966` for a file we want to read. We should navigate to the directory `.git/objects/b7`. Here, `b` and `7` are the first two characters of our hash. And the object name is the rest of the hash, which is `ccea095f22c12e1301c5515df2a8f1c5e35966`. The URL should now look like the following: `https://vulnerable.com/.git/objects/b7/ccea095f22c12e1301c5515df2a8f1c5e35966`.
 
 ![git objects folder](objects.png)
 
@@ -52,7 +52,7 @@ Now, all we have to do is downloading the object and decompressing it. I used py
 >>> decompressed_contents
 ``` 
 
-The python code is from [here](https://matthew-brett.github.io/curious-git/reading_git_objects.html)
+The python code is from [here](https://matthew-brett.github.io/curious-git/reading_git_objects.html).
 
 Now we can read the file. I used this technique to read the file contents. If you think that this takes a lot of time and effort, you are right. [@rizasabuncu](https://twitter.com/rizasabuncu) developed [gigger](https://github.com/riza/gigger) (Git folder digger)  with Go. After manually installing and decompressing some of the objects, I used gigger and it did the rest of the work for me, thanks [@rizasabuncu](https://twitter.com/rizasabuncu). 
 
