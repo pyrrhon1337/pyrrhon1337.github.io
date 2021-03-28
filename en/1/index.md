@@ -10,8 +10,6 @@ First and foremost, I enumerated the subdomains of the application. Later, I sta
 ### Forbidden or not?
 `/.git` was returning 403, but what if I navigate to a file under the .git folder? After asking this question to myself, I navigated to `.git/config` and voila, I was able to view it! 
 
-![.git returns 403](git-403.png)
-
 After realizing that I was able to view every single file under `.git`, I downloaded and parsed the `.git/index` file to see if there were any interesting filenames. I used https://github.com/sbp/gin to parse the git index. 
 
 ```
