@@ -6,7 +6,21 @@
     <description>Recent content in Home on Taha Biyikli</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 14:19:34 +0300</lastBuildDate>
     <atom:link href="https://tahabiyikli.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://tahabiyikli.com/about/</link>
+      <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
+      <guid>https://tahabiyikli.com/about/</guid>
+      <description>Hey, I’m Taha, a freshman at Carnegie Mellon University majoring in Computer Science. I have a deep passion for cybersecurity, with a focus on application security, penetration testing, and low-level security like reverse engineering and binary exploitation.&#xA;I&amp;rsquo;ve had the chance to play CTFs with MMM/PPP internationally and NEDİM KURU in Turkey.&#xA;A few years back, I responsibly disclosed vulnerabilities to over 30 organizations, including Apple and the U.S. Department of Defense.</description>
+    </item>
+    <item>
+      <title>Acknowledgements</title>
+      <link>https://tahabiyikli.com/acknowledgements/</link>
+      <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
+      <guid>https://tahabiyikli.com/acknowledgements/</guid>
+      <description> Apple Nokia BBC Sony U.S. Dept Of Defense Asus Mail.ru AT&amp;amp;T Philips Telecom Italia Erasmus University University of Twente Dutch Tax Administration </description>
+    </item>
   </channel>
 </rss>
