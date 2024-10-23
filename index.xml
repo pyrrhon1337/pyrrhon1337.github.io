@@ -16,18 +16,18 @@
       <description></description>
     </item>
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>https://tahabiyikli.com/about/</link>
       <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
       <guid>https://tahabiyikli.com/about/</guid>
       <description>i&amp;rsquo;m studying computer science + math at carnegie mellon. i like compilers, operating systems, application security, and binary exploitation. i play ctfs with ppp.&#xA;i used to do bug bounties, and found vulns in over fifty firms including apple and the dod. see a list of these at /acknowledgements.&#xA;linkedin: in/tahabiyikli mail: mail at this domain pgp: D91F 90A3 6FC0 AA0D 5145 5930 9C48 D6BE E0CA 2DB0.</description>
     </item>
     <item>
-      <title>Acknowledgements</title>
+      <title>acknowledgements</title>
       <link>https://tahabiyikli.com/acknowledgements/</link>
       <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
       <guid>https://tahabiyikli.com/acknowledgements/</guid>
-      <description> Apple Nokia BBC Sony U.S. Dept Of Defense Asus Mail.ru AT&amp;amp;T Philips Telecom Italia Erasmus University University of Twente Dutch Tax Administration </description>
+      <description> apple nokia bbc sony us dept of defense asus mailru at&amp;amp;t philips telecom italia erasmus university university of twente dutch government </description>
     </item>
   </channel>
 </rss>
