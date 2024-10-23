@@ -9,11 +9,18 @@
     <lastBuildDate>Wed, 14 Aug 2024 14:19:34 +0300</lastBuildDate>
     <atom:link href="https://tahabiyikli.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://tahabiyikli.com/posts/1/</link>
+      <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
+      <guid>https://tahabiyikli.com/posts/1/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://tahabiyikli.com/about/</link>
       <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
       <guid>https://tahabiyikli.com/about/</guid>
-      <description>Hey, I’m Taha, a freshman at Carnegie Mellon University majoring in Computer Science. I have a deep passion for cybersecurity, with a focus on application security, penetration testing, and low-level security like reverse engineering and binary exploitation.&#xA;I&amp;rsquo;ve had the chance to play CTFs with MMM/PPP internationally and NEDİM KURU in Turkey.&#xA;A few years back, I responsibly disclosed vulnerabilities to over 30 organizations, including Apple and the U.S. Department of Defense.</description>
+      <description>i&amp;rsquo;m studying computer science + math at carnegie mellon. i like compilers, operating systems, application security, and binary exploitation. i play ctfs with ppp.&#xA;i used to do bug bounties, and found vulns in over fifty firms including apple and the dod. see a list of these at /acknowledgements.&#xA;linkedin: in/tahabiyikli mail: mail at this domain pgp: D91F 90A3 6FC0 AA0D 5145 5930 9C48 D6BE E0CA 2DB0.</description>
     </item>
     <item>
       <title>Acknowledgements</title>
@@ -21,13 +28,6 @@
       <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
       <guid>https://tahabiyikli.com/acknowledgements/</guid>
       <description> Apple Nokia BBC Sony U.S. Dept Of Defense Asus Mail.ru AT&amp;amp;T Philips Telecom Italia Erasmus University University of Twente Dutch Tax Administration </description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://tahabiyikli.com/posts/my-first-post/</link>
-      <pubDate>Wed, 14 Aug 2024 14:19:34 +0300</pubDate>
-      <guid>https://tahabiyikli.com/posts/my-first-post/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
